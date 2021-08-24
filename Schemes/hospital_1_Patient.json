@@ -1,0 +1,18 @@
+{
+    "rules": {
+        "patient_id": "PatientID",
+        "mrn": "MRN",
+        "patient_dob": "PatientDOB",
+        "is_deceased": "IsDeceased",
+        "dos_ts": "DOD_TS",
+        "last_name": "LastName",
+        "first_name": "FirstName",
+        "gender": "Gender",
+        "sex": "Sex",
+        "address": "Address",
+        "city": "City",
+        "state": "State",
+        "zip_code": "ZipCode",
+        "last_modified_date": "LastModifiedDate"
+    }
+}

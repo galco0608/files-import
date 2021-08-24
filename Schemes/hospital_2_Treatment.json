@@ -1,0 +1,13 @@
+{
+    "rules": {
+        "patient_id": "PatientId",
+        "start_date": "StartDate",
+        "end_date": "EndDate",
+        "active": "Status",
+        "display_name": "DisplayName",
+        "diagnoses": "AssociatedDiagnoses",
+        "cycles_xdays": "NumberOfCycles",
+        "treatment_id": "TreatmentId",
+        "protocol_id": "ProtocolID"
+    }
+}
